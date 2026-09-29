@@ -83,3 +83,6 @@ Profit Margin: 8.44%
 - Develop strategies to improve repeat customer activity.
 - Monitor monthly profitability and investigate periods with weaker performance.
 
+## Dashboard Screenshots
+
+[📊 View Full Dashboard Screenshots (PDF)](./E-Commerce-Sales-Dashboard-Screenshots.pdf)
