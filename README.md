@@ -85,4 +85,18 @@ Profit Margin: 8.44%
 
 ## Dashboard Screenshots
 
-[📊 View Full Dashboard Screenshots (PDF)](./E-Commerce-Sales-Dashboard-Screenshots.pdf)
+### Sales Overview
+![Sales Overview](Sales-Overview.png)
+
+### Geographic Analysis
+![Geographic Analysis](Geographic-Analysis.png)
+
+### Customer & City Analysis
+![Customer & City Analysis](Customer-City-Analysis.png)
+
+### Profitability & Transaction Analysis
+![Profitability & Transaction Analysis](Profitability-Transaction-Analysis.png)
+
+### Low Margin & Monthly Profit Analysis
+![Low Margin & Monthly Profit Analysis](Low-Margin-Monthly-Profit-Analysis.png)
+
